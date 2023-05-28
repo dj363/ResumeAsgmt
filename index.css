@@ -7,6 +7,7 @@ body{
 /* main page */
 .container{
     border: 1px solid;
+    box-shadow: 15px 15px 6px lightblue;
     display: flex;
 }
 /* left side */
@@ -39,7 +40,7 @@ img{
 }
 /* experience */
 .exp{
-    margin-top: 165px;
+    margin-top: 177px;
 }
 /* yellow part */
 .container2{
