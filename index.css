@@ -7,7 +7,7 @@ body{
 /* main page */
 .container{
     border: 1px solid;
-    box-shadow: 15px 15px 6px lightblue;
+    box-shadow: 15px 15px 6px black;
     display: flex;
 }
 /* left side */
